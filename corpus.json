@@ -1,0 +1,25 @@
+{
+  "corpus": "ca/manitoba/acts",
+  "parent": "ca/federal/acts",
+  "name": "Manitoba: catalogue of the C.C.S.M. Acts' legislative history (metadata only, no law text) and legal-system facts",
+  "label": "Manitoba",
+  "language": "en",
+  "acts": [
+    "catalogue",
+    "legal-system"
+  ],
+  "history": "as-enacted",
+  "history_from": "1985-09-30",
+  "record_to": "2026-10-26",
+  "record_note": "Metadata only, no law text: Manitoba allows copies of its Acts only for study, research, legal proceedings or legal advice. The catalogue covers all 516 C.C.S.M. Acts: enacting and amending Acts and in-force dates from the Manitoba Laws legislative history tables current on 2026-10-26; 1968 of 5401 lines carry an in-force date, the rest are dated 2026-10-26.",
+  "checked_on": "2026-10-30",
+  "built": "2026-10-30",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "dates": {
+    "commit": "catalogue: the in-force date the table gives, else the day the tables were current; legal-system: the dated Wikidata fact, else the item's latest revision",
+    "time": "12:00 America/Winnipeg (UTC-6, UTC-5 in daylight time)"
+  },
+  "reuse": "No law text is reproduced. Chapters, titles, Act citations and in-force dates are facts recorded by Manitoba Laws; the legal-system facts are from Wikidata (CC0).",
+  "tool": "tools/on.py"
+}

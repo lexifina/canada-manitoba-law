@@ -1,0 +1,16 @@
+No law text is published. This repository holds metadata only.
+
+Catalogue entries (chapter, title, enacting and amending Act citations, proclamation and in-force dates) are
+facts recorded in the legislative history tables of Manitoba Laws (https://web2.gov.mb.ca/laws/), published
+by the King's Printer for Manitoba. No text of any Act is reproduced.
+
+The "legal-system" facts come from Wikidata (https://www.wikidata.org), released under CC0 1.0.
+
+Manitoba Laws Copyright Notification (https://www.manitoba.ca/legal/mb_laws.html): "Copyright on the
+electronic version of Manitoba laws belongs to the Province of Manitoba. You may, without charge and without
+requesting permission, make copies of all or part of any Act or regulation for study or research, or for use
+in legal proceedings or for providing legal advice. You must not make copies for any other purpose without
+first obtaining the written consent of King's Printer." The Acts are not copied here.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
